@@ -13,3 +13,5 @@ Results are made dimensionless, with D,  U,  D/U, and $ρ𝑈^2/2$ as refere
 time, and pressure, respectively. A schematic of the problem is shown below
 
 ![image](https://github.com/user-attachments/assets/f13df9fb-1819-48f2-a897-e9302de58665)
+
+DNS Data from: F. X. Trias, A. Gorobets, and A. Oliva, “Turbulent flow around a square cylinder at Reynolds number 22,000: A DNS study,” Computers & Fluids, vol. 123, pp. 87–98, Dec. 2015, doi: 10.1016/j.compfluid.2015.09.013.
